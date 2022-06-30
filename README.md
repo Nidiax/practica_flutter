@@ -1,4 +1,4 @@
-# widgetgallery
+# Practica widgetgallery
 
 A new Flutter project.
 
