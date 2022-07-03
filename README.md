@@ -2,5 +2,6 @@
 
 Nidia Avila 9°A
 
+Practica 3 - SignUp
 
-<img  src='assets/signup.png'/>
+<img height='512'  src='assets/signup.png'/>
